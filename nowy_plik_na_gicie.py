@@ -1,0 +1,1 @@
+print("Chyba uruchomiłem nowy plik, który od razu widać na gicie")
